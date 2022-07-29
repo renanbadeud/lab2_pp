@@ -3,8 +3,8 @@
 o programa vai dividir N em K blocos de inteiros a serem testados. Essa estratégia é válida, porque a hash de x e x+1 é bem diferente,
 então acaba sendo uma busca aleatória nas hashes.</p><br>
 <ol>
-  Para rodar o código em C, que está na pasta "desafio de hoje":
-  <li>entrar na pasta "desafio de hoje"</li>
+  Para rodar o código em C, que está na pasta "desafio pp":
+  <li>entrar na pasta "desafio pp"</li>
   <li>abrir o terminal e executar o comando "make":</li>
   <li>abrir outra aba do terminal</li>
   <li>executar "./rpcMiner_server"</li>
