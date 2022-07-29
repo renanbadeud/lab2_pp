@@ -8,7 +8,7 @@ então acaba sendo uma busca aleatória nas hashes.</p><br>
   <li>abrir o terminal e executar o comando "make":</li>
   <li>abrir outra aba do terminal</li>
   <li>executar "./rpcMiner_server"</li>
-  <li>na outra aba executar ./rpcMiner_client host N K </li>
+  <li>na outra aba executar ./rpcMiner_client host N K      e.g. no video foi usado (./rpcMiner_client localhost 100000000 10)</li>
   <li>escolher a opção desejada do menu</li>
 </ol>
 ---------------------------------------------------------
